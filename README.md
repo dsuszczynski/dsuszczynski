@@ -7,7 +7,7 @@ I focus on engineering strategy, team scaling, legacy modernisation, and alignin
 ## What I'm working on
 
 - 🔧 Rebuilding hands-on skills in **Java**, **Spring Boot**, **Python**, and **TypeScript** alongside my leadership practice
-- 🤖 Exploring **AI-assisted development workflows** with Claude and Cursor
+- 🤖 Exploring **AI-assisted development workflows** with Claude and IntelliJ
 - 📐 Deepening my work with **Domain-Driven Design**, **Event Storming**, and **event-driven architectures**
 - ☁️ Cloud infrastructure, **CI/CD**, observability, and engineering effectiveness (**DORA metrics**, **SPACE framework**)
 - ✍️ Writing about engineering leadership and architecture on [suszczynski.dev](https://suszczynski.dev)
