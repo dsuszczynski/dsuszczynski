@@ -1,20 +1,31 @@
 # Hi, I'm Daniel Suszczynski 👋
 
-**Senior Engineering Leader** based in Berlin, building and scaling high-performance engineering organisations for over 20 years.
-
-I focus on engineering strategy, team scaling, legacy modernisation, and aligning technology with business outcomes. My background spans fintech startups and complex product scale-ups, leading cross-functional teams of up to 60+ engineers.
+**Head of Engineering at ablefy**, based in Berlin. Over 20 years building and
+scaling engineering organisations, including teams of up to 60+ engineers across
+fintech and SaaS.
 
 ## What I'm working on
 
-- 🔧 Rebuilding hands-on skills in **Java**, **Spring Boot**, **Python**, and **TypeScript** alongside my leadership practice
-- 🤖 Exploring **AI-assisted development workflows** with Claude and IntelliJ
-- 📐 Deepening my work with **Domain-Driven Design**, **Event Storming**, and **event-driven architectures**
-- ☁️ Cloud infrastructure, **CI/CD**, observability, and engineering effectiveness (**DORA metrics**, **SPACE framework**)
-- ✍️ Writing about engineering leadership and architecture on [suszczynski.dev](https://suszczynski.dev)
+- 🤖 Leading the move to **agentic engineering**. I own the quality and governance
+  layer of a company-wide programme: a review and testing harness that holds code
+  to the same bar in CI whether agents, spec-driven workflows or people wrote it
+- 🏗️ Building a **cloud-portable, Kubernetes-based, event-driven platform** for
+  international growth
+- 🔬 **Evaluation over coverage.** Took a Playwright suite from a 6% flaky rate to
+  0.3%, because a gate nobody trusts is not a gate. Production deployments rose
+  from 46 to 90 across comparable four-week periods
+- 📐 **Domain-Driven Design**, Event Storming, Team Topologies and organisational
+  design, applied to real migrations rather than diagrams
+- ☁️ Cloud infrastructure, CI/CD, observability and engineering effectiveness
+  (**DORA metrics**, SPACE)
+- ✍️ Writing about engineering leadership and architecture on
+  [suszczynski.dev](https://suszczynski.dev)
 
 ## About my repositories
 
-Most of my repositories are **private**, as they contain work-in-progress projects, learning exercises, and proprietary tooling. I'm happy to grant access upon request during the interview process or upon inquiry.
+Most of my repositories are **private**, as they contain work-in-progress projects,
+learning exercises, and proprietary tooling. I'm happy to grant access upon request
+during the interview process or upon inquiry.
 
 ## Let's connect
 
